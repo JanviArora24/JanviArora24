@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-code-clipart-one-of-the-character-concept-for-gamer-gamer-girl-vector-png-image_6805622.png" width="400" alt="coding-gif" />
+  <img src="https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-code-clipart-one-of-the-character-concept-for-gamer-gamer-girl-vector-png-image_6805622.png" width="350" alt="coding-gif" />
 </p>
 
 ---
