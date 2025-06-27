@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janviarora24&label=Profile%20views&color=0e75b6&style=flat" alt="janviarora24" /> </p>
 
-- 🔭 I’m currently working on [RecipeGram-[A recipe-sharing social platform with AI suggestions, image uploads, likes, comments & more.]](https://github.com/JanviArora24/recipegram)
-
 - 🌱 I’m currently learning **📚 MERN Stack, Advanced React Patterns, TailwindCSS, and MongoDB Aggregation Framework 📖 Courses: "DSA for Interviews", and "AI in Web Dev"**
 
 - 🧠 I Can Help You With **Crafting DSA patterns that just make sense, and building UIs that feel like art.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/janvi-arora-7b8299294/**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1MHC6Vt6RAxkUhFMqNi8j4EDzQhzoe-AJ](https://drive.google.com/drive/u/0/folders/1MHC6Vt6RAxkUhFMqNi8j4EDzQhzoe-AJ)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/folders/1MHC6Vt6RAxkUhFMqNi8j4EDzQhzoe-AJ)
 
 - ⚡ Fun fact **My Google search history is 70% code errors and 30% recipe cravings. 👩‍🍳👩‍💻**
 
