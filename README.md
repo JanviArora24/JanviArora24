@@ -13,24 +13,26 @@
 
 ---
 
-### 🌱 Currently Learning
-- 📚 MERN Stack, Advanced React Patterns, MongoDB Aggregation
-- 📖 Courses: "DSA for Interviews", "AI in Web Dev"
-
-### 🧠 I Can Help You With
-> Crafting **DSA patterns** that *just make sense*, and building **UI** that *feels like art* 🎨
-
-### 📫 Reach Me At
-- 📩 [LinkedIn](https://www.linkedin.com/in/janvi-arora-7b8299294/)
-- 📄 [Resume](https://drive.google.com/drive/u/0/folders/1MHC6Vt6RAxkUhFMqNi8j4EDzQhzoe-AJ)
+### 🌱 Currently Learning  
+**MERN Stack**, *Advanced React*, *MongoDB Aggregation*  
+📘 *DSA for Interviews*, *AI in Web Dev*
 
 ---
 
-### ⚡ Fun Fact
-> My Google search history is 70% code errors and 30% recipe cravings. 👩‍🍳👩‍💻  
-> Also, my Metro app has traveled more than I have 🚇😂
+### 🧠 I Can Help With  
+**DSA patterns** that make sense & **UIs** that feel like art 🎨
 
 ---
+
+### 📫 Reach Me  
+🔗 [LinkedIn](https://www.linkedin.com/in/janvi-arora-7b8299294/) · 📄 [Resume](https://drive.google.com/drive/u/0/folders/1MHC6Vt6RAxkUhFMqNi8j4EDzQhzoe-AJ)
+
+---
+
+### ⚡ Fun Fact  
+70% of my Google searches are code errors, 30% are recipes.  
+My metro app has traveled more than I have. 🚇😂
+
 
 ### 🛠️ Languages & Tools
 
@@ -56,26 +58,5 @@
 
 ---
 
-<h3>💫 Connect With Me</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/janvi-arora-7b8299294/" target="_blank">
-    <img src="https://img.icons8.com/fluency/30/000000/linkedin.png" title="LinkedIn"/>
-  </a>
-  <a href="mailto:janvi.jiyaarora@gmail.com">
-    <img src="https://img.icons8.com/fluency/30/000000/gmail.png" title="Gmail"/>
-  </a>
-</p>
-
-
----
-
-### 🧩 "Bits About Me"
-
-- 🧩 3rd-year CS Undergrad @ JIIT Noida  
-- 💻 DSA lover | MERN Developer  
-- 🌟 Obsessed with performance & polish
-
----
 
 
