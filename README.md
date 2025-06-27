@@ -1,28 +1,80 @@
 <h1 align="center">🚀 Janvi Arora – Developer. Dreamer. Doer.</h1>
 <h3 align="center">LeetCode by day, full-stack at night – and loving both.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=janviarora24&label=Profile%20views&color=0e75b6&style=flat" alt="janviarora24" /> </p>
-
-- 🌱 I’m currently learning **📚 MERN Stack, Advanced React Patterns, TailwindCSS, and MongoDB Aggregation Framework 📖 Courses: "DSA for Interviews", and "AI in Web Dev"**
-
-- 🧠 I Can Help You With **Crafting DSA patterns that just make sense, and building UIs that feel like art.**
-
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/janvi-arora-7b8299294/)
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/folders/1MHC6Vt6RAxkUhFMqNi8j4EDzQhzoe-AJ)
-
-- ⚡ Fun fact **My Google search history is 70% code errors and 30% recipe cravings. 👩‍🍳👩‍💻**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href=["(https://www.linkedin.com/in/janvi-arora-7b8299294/)"](https://www.linkedin.com/in/janvi-arora-7b8299294/) target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Janvi Arora" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Translating+logic+into+beautiful+interfaces.;Kabhi+kabhi+code+samajhne+ke+liye+coffee+nahi+sabr+chahiye.;Design-driven+mindset+with+developer+precision.;VS+Code+open+karte+hi+productivity+ka+button+on+ho+jaata+hai.;Code+that+works+is+good%2C+code+that+feels+right+is+better." alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janviarora24&show_icons=true&locale=en&layout=compact" alt="janviarora24" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janviarora24&show_icons=true&locale=en" alt="janviarora24" /></p>
+<p align="center">
+  <img src="https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-code-clipart-one-of-the-character-concept-for-gamer-gamer-girl-vector-png-image_6805622.png" width="400" alt="coding-gif" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janviarora24&" alt="janviarora24" /></p>
+---
+
+### 🌱 Currently Learning
+- 📚 MERN Stack, Advanced React Patterns, MongoDB Aggregation
+- 📖 Courses: "DSA for Interviews", "AI in Web Dev"
+
+### 🧠 I Can Help You With
+> Crafting **DSA patterns** that *just make sense*, and building **UI** that *feels like art* 🎨
+
+### 📫 Reach Me At
+- 📩 [LinkedIn](https://www.linkedin.com/in/janvi-arora-7b8299294/)
+- 📄 [Resume](https://drive.google.com/drive/u/0/folders/1MHC6Vt6RAxkUhFMqNi8j4EDzQhzoe-AJ)
+
+---
+
+### ⚡ Fun Fact
+> My Google search history is 70% code errors and 30% recipe cravings. 👩‍🍳👩‍💻  
+> Also, my Metro app has traveled more than I have 🚇😂
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,react,nodejs,mongodb,tailwind,html,css,js,git,redux,figma,php,firebase,bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" width="40" alt="PL/SQL"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JanviArora24&show_icons=true&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanviArora24&layout=compact&theme=radical" width="45%" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.demolab.com/?user=JanviArora24&theme=radical" />
+</p>
+
+---
+
+### 💫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/janvi-arora-7b8299294/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+  <a href="mailto:janvi.jiyaarora@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png"/></a>
+</p>
+
+---
+
+### 🧩 "Bits About Me"
+
+- 🧩 3rd-year CS Undergrad @ JIIT Noida  
+- 💻 DSA lover | MERN Developer  
+- 🌟 Obsessed with performance & polish
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l41YlT5LoU5w7x5VK/giphy.gif" width="300" alt="creative-gif" />
+</p>
+
+
+
