@@ -49,9 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanviArora24&layout=compact&theme=radical" width="45%" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.demolab.com/?user=JanviArora24&theme=radical" />
-</p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janviarora24&" alt="janviarora24" /></p>
 
 ---
 
@@ -71,10 +69,5 @@
 - 🌟 Obsessed with performance & polish
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l41YlT5LoU5w7x5VK/giphy.gif" width="300" alt="creative-gif" />
-</p>
-
 
 
