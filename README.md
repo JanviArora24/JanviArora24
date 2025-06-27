@@ -42,23 +42,31 @@
 
 ---
 
-### 📊 GitHub Stats
+<details>
+  <summary>📊 GitHub Stats</summary>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JanviArora24&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanviArora24&layout=compact&theme=radical" width="45%" />
-</p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=janviarora24&show_icons=true&theme=radical" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janviarora24&layout=compact&theme=radical" width="45%" />
+  </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janviarora24&" alt="janviarora24" /></p>
+  <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=janviarora24&" alt="janviarora24" /></p>
+</details>
+
 
 ---
 
-### 💫 Connect With Me
+<h3>💫 Connect With Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/janvi-arora-7b8299294/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
-  <a href="mailto:janvi.jiyaarora@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png"/></a>
+  <a href="https://www.linkedin.com/in/janvi-arora-7b8299294/" target="_blank">
+    <img src="https://img.icons8.com/fluency/30/000000/linkedin.png" title="LinkedIn"/>
+  </a>
+  <a href="mailto:janvi.jiyaarora@gmail.com">
+    <img src="https://img.icons8.com/fluency/30/000000/gmail.png" title="Gmail"/>
+  </a>
 </p>
+
 
 ---
 
