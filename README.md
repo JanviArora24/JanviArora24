@@ -52,7 +52,12 @@ My metro app has traveled more than I have. 🚇😂
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janviarora24&layout=compact&theme=radical" width="45%" />
   </p>
 
-  <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=janviarora24&" alt="janviarora24" /></p>
+<!--
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=janviarora24&theme=radical" alt="GitHub Streak" />
+</p>
+-->
+
 </details>
 
 
