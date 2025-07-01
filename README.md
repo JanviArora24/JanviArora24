@@ -25,7 +25,7 @@
 ---
 
 ### 📫 Reach Me  
-🔗 [LinkedIn](https://www.linkedin.com/in/janvi-arora-7b8299294/) · 📄 [Resume](https://drive.google.com/drive/u/0/folders/1MHC6Vt6RAxkUhFMqNi8j4EDzQhzoe-AJ)
+🔗 [LinkedIn](https://www.linkedin.com/in/janvi-arora-7b8299294/)  <!-- 📄 [Resume](https://drive.google.com/drive/u/0/folders/1MHC6Vt6RAxkUhFMqNi8j4EDzQhzoe-AJ)-->
 
 ---
 
